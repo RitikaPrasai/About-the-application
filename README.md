@@ -1,6 +1,6 @@
 
 
-<h1>About the application</h1>
+
 
 
 ***

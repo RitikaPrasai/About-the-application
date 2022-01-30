@@ -16,7 +16,7 @@
 - *Version: 1.0*
 - *URL: mapcoordinates.info*
 
-<h1><font color='blue'>Watch-video</font> </h1>
+<h1><font color='lightblue'>Watch-video</font> </h1>
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jgkYn6oyucY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,15 +1,5 @@
 
 
-
-<style>
-<style>
-    .h1 {position: fixed;top: 100px; left: 300px; background: white;height: 100%;width: 200px; padding: 20px; z-index: 10000}
-</style>
-
-
-
-<a name="loc1"></a>
-
 <h1>About the application</h1>
 
 

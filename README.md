@@ -16,6 +16,8 @@
 - *Version: 1.0*
 - *URL: mapcoordinates.info*
 
+A publication is under review
+
 <h1><font color='green'>Watch-video</font> </h1>
 
 <p align="center">

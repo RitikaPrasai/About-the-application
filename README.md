@@ -8,15 +8,7 @@
 
 
 
-
-
-- *Author full name: Ritika Prasai*
-- *Release date: 29 January, 2022*
-- *Application title: Mapcoordinates.info*
-- *Version: 1.0*
-- *URL: mapcoordinates.info*
-
-A publication is under review
+Prasai, R. (2022). Earth engine application to retrieve long-term terrestrial and aquatic time series of satellite reflectance data. International Journal of Multidisciplinary Research and Growth Evaluation, 165–171. https://doi.org/10.54660/anfo.2022.3.3.11
 
 <h1><font color='green'>Watch-video</font> </h1>
 
